@@ -10,8 +10,8 @@ import FAQ from "components/faqs/SingleCol.js";
 import Footer from "components/footers/MiniCenteredFooterAlice.js";
 
 
-import TeamIllustrationSrc from "images/team-illustration-2.svg";
-import heroScreenshotImageSrc from "images/hero-screenshot-1.png";
+// import TeamIllustrationSrc from "images/team-illustration-2.svg";
+// import heroScreenshotImageSrc from "images/hero-screenshot-1.png";
 import chefIconImageSrc from "images/chef-icon.svg";
 import celebrationIconImageSrc from "images/celebration-icon.svg";
 import shopIconImageSrc from "images/shop-icon.svg";
